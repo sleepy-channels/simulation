@@ -1,6 +1,7 @@
 # Sleepy Channels simulation
 
 An implementation to conduct the simulation experiments of Sleepy Channels.
+Snapshot from https://ln.fiatjaf.com/ (January 2022)
 
 ## Usage:
 

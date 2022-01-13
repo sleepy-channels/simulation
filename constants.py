@@ -1,4 +1,4 @@
-CHANNELS_CSV = 'channels.csv'
+CHANNELS_CSV = 'channels_01_2022.csv'
 SATOSHIS_IN_BTC = 100000000
 ###### COLUMN NAMES ######
 NODE_A = 'nodeA'
